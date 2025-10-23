@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+# =====================
+# React Frontend (supervisor-ui)
+# =====================
+/supervisor-ui/node_modules/
+/supervisor-ui/build/
+/supervisor-ui/.env
